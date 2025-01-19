@@ -1,6 +1,2 @@
-.ds store
+.DS_Store
 secrets.txt
-
-
-# log files
-.log
